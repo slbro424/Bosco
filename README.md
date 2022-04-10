@@ -46,7 +46,7 @@ Heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 ```
-https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+https://github.com/pepesir/Bosco/edit/master/README.md
 ```
 
 ### `FOR TERMUX`
